@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\SnakeLadderSoln\bin\Debug\netcoreapp3.1\SnakeLadderSoln.exe
+C:\Users\md048\source\repos\SnakeLadderSoln\bin\Debug\netcoreapp3.1\SnakeLadderSoln.deps.json
+C:\Users\md048\source\repos\SnakeLadderSoln\bin\Debug\netcoreapp3.1\SnakeLadderSoln.runtimeconfig.json
+C:\Users\md048\source\repos\SnakeLadderSoln\bin\Debug\netcoreapp3.1\SnakeLadderSoln.runtimeconfig.dev.json
+C:\Users\md048\source\repos\SnakeLadderSoln\bin\Debug\netcoreapp3.1\SnakeLadderSoln.dll
+C:\Users\md048\source\repos\SnakeLadderSoln\bin\Debug\netcoreapp3.1\SnakeLadderSoln.pdb
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.AssemblyInfo.cs
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.dll
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.pdb
+C:\Users\md048\source\repos\SnakeLadderSoln\obj\Debug\netcoreapp3.1\SnakeLadderSoln.genruntimeconfig.cache
