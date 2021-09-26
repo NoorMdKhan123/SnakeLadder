@@ -16,7 +16,7 @@ namespace SnakeLadderSoln
             public const int SNAKE = 2;
             static void Main(string[] args)
             {
-                // UC-1 Snake and Ladder game plated with a single player at start position 0
+                // UC-1 Snake and Ladder game played with a single player at start position 0
                 int diceResult = 0;
                 int count = 0;
                 int diceCheckRequired = 0;
